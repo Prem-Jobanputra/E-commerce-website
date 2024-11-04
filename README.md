@@ -1,8 +1,8 @@
-<h1 align="center">E-Commerce Store 🛒</h1>
+<h1 align="center">E-Commerce Store</h1>
 
 -   🚀 Project Setup
 -   🗄️ MongoDB & Redis Integration
--   💳 Stripe Payment Setup
+-   💳 Paypal Braintree Payment Setup
 -   🔐 Robust Authentication System
 -   🔑 JWT with Refresh/Access Tokens
 -   📝 User Signup & Login
