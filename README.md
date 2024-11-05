@@ -9,7 +9,7 @@
 -   🛒 E-Commerce Core
 -   📦 Product & Category Management
 -   🛍️ Shopping Cart Functionality
--   💰 Checkout with Stripe
+-   💰 Checkout with Paypal Braintree
 -   🏷️ Coupon Code System
 -   👑 Admin Dashboard
 -   📊 Sales Analytics
